@@ -14,8 +14,6 @@ let myObject = {};
 var myObject = {};
 ```
 
-Create an empty object and assign it to a variable called `emptyObject`.
-
 ######
-
+Create an empty object and assign it to a variable called `emptyObject`.
 ~~javascript objects emptyObject~~
