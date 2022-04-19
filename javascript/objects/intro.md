@@ -1,7 +1,7 @@
-#####
-<a href="/javascript/objects/first-object">Previous</a>
-<a href="/javascript/objects/first-object" class="next">Next: Your first object edited</a>
-
+<nav>
+    <a href="/javascript/objects/first-object">Previous</a>
+    <a href="/javascript/objects/first-object" class="next">Next: Your first object edited</a>
+</nav>
 
 # Objects
 
