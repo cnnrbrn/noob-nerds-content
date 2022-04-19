@@ -24,6 +24,9 @@ Create an empty object and assign it to a variable called `emptyObject`.
 
 ~~javascript objects emptyObject~~
 
+
+# dd
+
 <div class="navigation">
     <a href="/javascript/objects/first-object">Previous</a>
     <a href="/javascript/objects/first-object" class="next">Next: Your first object edited</a>
