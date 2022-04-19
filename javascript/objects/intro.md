@@ -1,9 +1,6 @@
-
-
-<div class="navigation">
-    <a href="/javascript/objects/first-object">Previous</a>
-    <a href="/javascript/objects/first-object" class="next">Next: Your first object edited</a>
-</div>
+#####
+<a href="/javascript/objects/first-object">Previous</a>
+<a href="/javascript/objects/first-object" class="next">Next: Your first object edited</a>
 
 
 # Objects
