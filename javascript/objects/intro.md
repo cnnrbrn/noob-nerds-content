@@ -1,4 +1,4 @@
-<a href="/javascript/objects/first-object" class="navigation next">Next: your first object</a>
+<a href="/javascript/objects/first-object" class="navigation top next">Next: your first object</a>
 
 # Objects
 
