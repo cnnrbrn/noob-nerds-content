@@ -1,3 +1,5 @@
+<a href="/javascript/objects/first-object" class="navigation next">Next: your first object</a>
+
 # Objects
 
 Objects are used to store related variables.
@@ -19,5 +21,4 @@ Create an empty object and assign it to a variable called `emptyObject`.
 
 ~~javascript objects emptyObject~~
 
-
-[Next: your first object](/javascript/objects/first-object)
+<a href="/javascript/objects/first-object" class="navigation next">Next: your first object</a>
