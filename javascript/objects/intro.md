@@ -1,6 +1,10 @@
 
-<!-- <a href="/javascript/objects/first-object" class="previous">Previous</a>
-<a href="/javascript/objects/first-object" class="next">Next: Your first object</a> -->
+
+<div class="navigation">
+    <a href="/javascript/objects/first-object">Previous</a>
+    <a href="/javascript/objects/first-object" class="next">Next: Your first object edited</a>
+</div>
+
 
 # Objects
 
@@ -24,8 +28,3 @@ Create an empty object and assign it to a variable called `emptyObject`.
 ~~javascript objects emptyObject~~
 
 
-
-<div class="navigation">
-    <a href="/javascript/objects/first-object">Previous</a>
-    <a href="/javascript/objects/first-object" class="next">Next: Your first object edited</a>
-</div>
