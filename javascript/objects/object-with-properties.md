@@ -28,6 +28,6 @@ Create an object called `movie` with two properties, `title` and `description`. 
 ~~javascript objects movieObjectTwoStringProperties~~
 
 <nav>
-     <a href="/javascript/objects/intro">Back</a>
+     <a href="/javascript/objects/intro"><< Back</a>
     <a href="/javascript/objects/first-object" class="next">Next: </a>
 </nav>
