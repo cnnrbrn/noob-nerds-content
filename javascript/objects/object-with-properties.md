@@ -23,7 +23,7 @@ The left side of the property (the left side of the colon `:`) is called the `ke
 The first property in the person object has a key of `firstName` and a value of `"Gertrude"`, a string value.
 
 ######
-Create an object called `movie` with two properties, `title` and `description`. Give string values to both.
+Create an object called `movie` with two properties, `title` and `description`. Both must have string values.
 
 ~~javascript objects movieObjectTwoStringProperties~~
 
