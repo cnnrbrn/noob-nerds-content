@@ -16,7 +16,7 @@ const person = {
 };
 ```
 
-The variables become `properties` on the object.
+The variables become `properties` on the object. The object has two properties.
 
 The left side of the colon `:` is called the `key` and the right side is called the `value`.
 
