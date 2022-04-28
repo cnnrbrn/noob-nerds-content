@@ -20,5 +20,5 @@ Create an empty object and assign it to a variable called `emptyObject`.
 ~~javascript objects emptyObject~~
 
 <nav>
-    <a href="/javascript/objects/first-object-with-properties" class="next">Next: Your first object edited</a>
+    <a href="/javascript/objects/object-with-properties" class="next">Next: An object with properties</a>
 </nav>

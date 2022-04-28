@@ -1,4 +1,4 @@
-
+# An object with properties
 
 Say we had two string variables, firstName and lastName:
 
