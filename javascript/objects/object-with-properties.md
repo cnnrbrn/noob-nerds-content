@@ -21,7 +21,7 @@ const person = {
 ######
 Create an object called `movie` with two properties, title and description. Give string values to both.
 
-~~javascript objects moveieObjectTwoStringProperties~~
+~~javascript objects movieObjectTwoStringProperties~~
 
 <!-- <nav>
     <a href="/javascript/objects/first-object" class="next">Next: Your first object edited</a>
