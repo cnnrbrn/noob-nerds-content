@@ -20,6 +20,8 @@ The variables become `properties` on the object.
 
 The left side of the colon `:` is called the `key` and the right side is called the `value`.
 
+The first property in the person object has a key of `firstName` and a value of `Gertrude`.
+
 ######
 Create an object called `movie` with two properties, `title` and `description`. Give string values to both.
 
