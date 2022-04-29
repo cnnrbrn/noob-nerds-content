@@ -20,7 +20,7 @@ The variables become `properties` on the object. The object above has two proper
 
 The left side of the property (the left side of the colon `:`) is called the `key` and the right side is called the `value`.
 
-The first property in the person object has a key of `firstName` and a value of `"Gertrude"`, a string value.
+The first property in the person object has a __key__ of `firstName` and a __value__ of `"Gertrude"`, a string value.
 
 ######
 Create an object called `movie` with two properties, `title` and `description`. Both must have string values.
@@ -28,6 +28,6 @@ Create an object called `movie` with two properties, `title` and `description`. 
 ~~javascript objects movieObjectTwoStringProperties~~
 
 <nav>
-     <a href="/javascript/objects/intro"><< Back</a>
-    <a href="/javascript/objects/first-object" class="next">Next: </a>
+     <a href="/javascript/objects/intro">Back</a>
+    <a href="/javascript/objects/object-property-value-types" class="next">Next: Object property value types</a>
 </nav>
