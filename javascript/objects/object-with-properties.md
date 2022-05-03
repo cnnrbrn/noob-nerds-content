@@ -23,11 +23,11 @@ The left side of the property (the left side of the colon `:`) is called the `ke
 The first property in the person object has a __key__ of `firstName` and a __value__ of `"Gertrude"`, a string value.
 
 ######
-Create an object called `movie` with two properties, `title` and `description`. Both must have string values.
+Create an object called `movie` with two properties, `title` and `description`. Give both properties string values.
 
 ~~javascript objects movieObjectTwoStringProperties~~
 
 <nav>
-     <a href="/javascript/objects/intro">Back</a>
+    <a href="/javascript/objects/intro">Back</a>
     <a href="/javascript/objects/object-property-value-types" class="next">Next: Object property value types</a>
 </nav>
