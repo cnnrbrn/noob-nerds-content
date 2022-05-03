@@ -4,6 +4,8 @@ on:
     push:
         paths:
             - "**.md"
+        paths-ignore:
+            - "node_modules/**"
 
 jobs:
     build:
@@ -14,16 +16,6 @@ jobs:
               uses: trilom/file-changes-action@v1
               with:
                   githubToken: ${{ secrets.GITHUB_TOKEN }}
-            # - name: print files
-            #   run: |
-            #       ls $HOME
-            #       cat $HOME/files.json
-            #       cat $HOME/files_modified.json
-            #       cat $HOME/files_added.json
-            #       cat $HOME/files_deleted.json
-            #       echo '${{ steps.file_changes.outputs.files_modified}}'
-            #       echo '${{ steps.file_changes.outputs.files_added}}'
-            #       echo '${{ steps.file_changes.outputs.files_deleted}}'
             - name: do file stuff
               uses: ./ # Uses an action in the root directory
               with:
