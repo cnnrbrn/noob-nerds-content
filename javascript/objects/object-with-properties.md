@@ -16,11 +16,15 @@ const person = {
 };
 ```
 
-The variables become `properties` on the object. The object above has two properties, `firstName` and `lastName`.
+The variables become `properties` on the object. The object above has two properties.
 
 The left side of the property (the left side of the colon `:`) is called the `key` and the right side is called the `value`.
 
+A property is a key-value pair.
+
 The first property in the person object has a __key__ of `firstName` and a __value__ of `"Gertrude"`, a string value.
+
+The second property in the person object has a __key__ of `lastName` and a __value__ of `"Smith"`, also a string value.
 
 ######
 Create an object called `movie` with two properties, `title` and `description`. Give both properties string values.
