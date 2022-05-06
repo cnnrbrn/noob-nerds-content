@@ -11,7 +11,6 @@ Properties in objects can have any of the following values:
 
 ######
 Create an object called `user` with three properties:
-
 - id with a number value
 - name with a string value
 - isActive with a boolean value 
