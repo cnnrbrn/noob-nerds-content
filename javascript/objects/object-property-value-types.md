@@ -2,12 +2,12 @@
 
 Properties in objects can have any of the following values:
 
-- string, e.g. "Hello"
-- number, e.g. 1234
-- boolean, true or false
-- array, e.g. ["red", "yellow", "blue"]
-- another object, e.g. {colour: "red"}
-- a function, e.g. function() {}
+- `string`, e.g. "Hello"
+- `number`, e.g. 1234
+- `boolean`, true or false
+- `array`, e.g. ["red", "yellow", "blue"]
+- another `object`, e.g. {colour: "red"}
+- a `function`, e.g. function() {}
 
 ######
 Create an object called `user` with three properties:
