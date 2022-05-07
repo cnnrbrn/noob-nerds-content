@@ -26,8 +26,6 @@ We could access its `price` property and assign it to a variable like this:
 const producPrice = product.price;
 ```
 
-So it's the name of the variable holding the object, then a `.`, then the property name.
-
 ######
 Write a single line of code that will:
 - get the `name` property from the `product` object above
