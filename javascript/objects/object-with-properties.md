@@ -33,5 +33,5 @@ Create an object called `movie` with two properties, `title` and `description`. 
 
 <nav>
     <a href="/javascript/objects/intro">Back</a>
-    <a href="/javascript/objects/object-property-value-types" class="next">Next: Object property value types</a>
+    <a href="/javascript/objects/object-property-value-types" class="next">Object property value types</a>
 </nav>

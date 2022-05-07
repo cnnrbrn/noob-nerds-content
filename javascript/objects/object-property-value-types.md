@@ -9,6 +9,23 @@ Properties in objects can have any of the following values:
 - another `object`, e.g. {colour: "red"}
 - a `function`, e.g. function() {}
 
+Here is an object with one of each value type:
+
+```
+const animal = {
+     type: "elephant",
+     age: 32,
+     isAfrican: true,
+     nicknames: ["Ellie", "Bimbo"],
+     medicalHistory; {
+
+     },
+     trumpet: function() {
+          return "Praaaarrp!";
+     }
+}
+```
+
 ######
 Create an object called `user` with three properties:
 - id with a number value
@@ -20,4 +37,5 @@ Create an object called `user` with three properties:
 
 <nav>
      <a href="/javascript/objects/object-with-properties">Back</a>
+     <a href="/javascript/objects/accessing-object-properties" class="next">Accessing object properties</a>
 </nav>
