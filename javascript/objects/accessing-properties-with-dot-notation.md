@@ -29,7 +29,9 @@ const producPrice = product.price;
 So it's the name of the variable holding the object, then a `.`, then the property name.
 
 ######
-Write a single line of code that will get the `name` property from the `product` object above and assign it to a variable called `productName`. 
+Write a single line of code that will:
+- get the `name` property from the `product` object above
+- assign it to a variable called `productName`. 
 
 ~~javascript objects usingDotNotation~~
 
