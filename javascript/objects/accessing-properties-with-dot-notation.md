@@ -1,8 +1,8 @@
 # Accessing object properties with dot notation
 
-There are two ways to access object properties, to get the value of a property from an object.
+There are two ways to access object properties (to get the value of a property from an object).
 
-The most common way is called dot notation using a `.`.
+The most common way is called `dot notation` which uses a `.` between the object and the property we want to get.
 
 If we had this object:
 
