@@ -37,5 +37,5 @@ Create an object called `user` with three properties:
 
 <nav>
      <a href="/javascript/objects/object-with-properties">Back</a>
-     <a href="/javascript/objects/accessing-object-properties" class="next">Accessing object properties</a>
+     <a href="/javascript/objects/accessing-properties-with-dot-notation" class="next">Accessing  properties with dot notation</a>
 </nav>
