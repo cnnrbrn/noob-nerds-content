@@ -14,13 +14,13 @@ const product = {
 }
 ```
 
-we could access its `id` property and assign it to a variable like this:
+we can access its `id` property and assign it to a variable like this:
 
 ```js
 const producId = product.id;
 ```
 
-We could access its `price` property and assign it to a variable like this:
+We can access its `price` property and assign it to a variable like this:
 
 ```js
 const producPrice = product.price;
@@ -35,4 +35,5 @@ Write a single line of code that will:
 
 <nav>
      <a href="/javascript/objects/object-property-value-types">Back</a>
+      <a href="/javascript/objects/accessing-properties-with-bracket-notation" class="next">Accessing properties with bracket notation</a>
 </nav>
