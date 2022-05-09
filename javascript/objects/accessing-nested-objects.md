@@ -54,12 +54,12 @@ Write a single line of code that will retrieve the `password` property from the 
 ######
 Write a single line of code that will retrieve the `street` property from the object above.
 
-~~javascript objects accessingNestedObjectProperty1~~
+~~javascript objects accessingNestedObjectProperty2~~
 
 ######
 Write a single line of code that will retrieve the `"building name"` property from the object above.
 
-~~javascript objects accessingNestedObjectProperty1~~
+~~javascript objects accessingNestedObjectProperty3~~
 
 <nav>
      <a href="/javascript/objects/accessing-properties-with-bracket-notation">Back</a>
