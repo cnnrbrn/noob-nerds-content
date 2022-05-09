@@ -4,7 +4,7 @@ Apart from dot notation we can access object properties using bracket notation w
 
 Bracket notation is how we can access a property that has a space or hyphen in its key.
 
-If we had this object:
+Say we had this object:
 
 ```js
 const product = {
@@ -38,5 +38,5 @@ Write a single line of code that will:
 
 <nav>
      <a href="/javascript/objects/object-property-value-types">Back</a>
-      <a href="/javascript/objects/accessing-properties-with-bracket-notation" class="next">Accessing properties with bracket notation</a>
+      <a href="/javascript/objects/accessing-nested-objects" class="next">Accessing nested objects</a>
 </nav>

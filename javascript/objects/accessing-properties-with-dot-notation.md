@@ -17,13 +17,13 @@ const product = {
 we can access its `id` property and assign it to a variable like this:
 
 ```js
-const producId = product.id;
+const productId = product.id;
 ```
 
 We can access its `price` property and assign it to a variable like this:
 
 ```js
-const producPrice = product.price;
+const productPrice = product.price;
 ```
 
 ######
