@@ -23,8 +23,7 @@ const user = {
             street:  "1 Some Street",          
         },
         city: "The Big City"
-    },
-    // interests: ["frogs", "dinosaurs", "horse hunting", "climate change denying"]
+    }
 };
 ```
 
