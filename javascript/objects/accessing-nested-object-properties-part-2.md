@@ -34,4 +34,4 @@ Write a single line of code that will
 - retrieve the `"building name"` property from the object above
 - assign it to a variable called `userBuildingName`
 
-~~javascript objects accessingNestedObjectProperty3~~
+~~javascript objects accessingNestedObjectProperty4~~

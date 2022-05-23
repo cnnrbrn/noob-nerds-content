@@ -1,4 +1,4 @@
-# Accessing nested objects
+# Accessing nested object properties
 
 Objects are often nested within other objects.
 
@@ -22,7 +22,7 @@ Write a single line of code that will:
 - retrieve the `firstName` property from the object above
 - assign it to a variable called `userFirstName`
 
-~~javascript objects accessingNestedObjectProperty4~~
+~~javascript objects accessingNestedObjectProperty1~~
 
 <nav>
      <a href="/javascript/objects/accessing-nested-object-properties-2">Back</a>
