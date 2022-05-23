@@ -1,37 +1,7 @@
-# Accessing nested objects
 
-Objects are often nested within other objects.
 
-```js
-const user = {
-    name: {
-        firstName: "Burt",
-        lastName: "Bacharach",
-    },
-    login: {
-        username: "burt",
-        password: "strongpassword",
-        "suspended-or-blocked": false,
-    },
-    address: {
-        locality: {
-            building: {
-                "building name": "Nice building",
-                floor: 4,
-                flatNo: 21
-            },
-            street:  "1 Some Street",          
-        },
-        city: "The Big City"
-    }
-};
-```
 
-To access the `lastName` property in the object above we first need to get the `name` property (which is also an object) and then get the lastName property. We can use dot notation:
 
-```js
-const lastName = user.name.lastName;
-```
 
 To get the `"suspended-or-blocked"` property we first need to get the `login` property (an object) and then get the "suspended-or-blocked" for which we'll need to use bracket notation as it contains hyphens:
 
@@ -65,7 +35,3 @@ Write a single line of code that will
 - assign it to a variable called `userBuildingName`
 
 ~~javascript objects accessingNestedObjectProperty3~~
-
-<nav>
-     <a href="/javascript/objects/accessing-properties-with-bracket-notation">Back</a>
-</nav>

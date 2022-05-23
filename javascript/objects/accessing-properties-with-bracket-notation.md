@@ -38,5 +38,5 @@ Write a single line of code that will:
 
 <nav>
      <a href="/javascript/objects/object-property-value-types">Back</a>
-      <a href="/javascript/objects/accessing-nested-objects" class="next">Accessing nested objects</a>
+      <a href="/javascript/objects/accessing-nested-object-properties" class="next">Accessing nested objects</a>
 </nav>
