@@ -25,5 +25,6 @@ Write a single line of code that will:
 ~~javascript objects accessingNestedObjectProperty1~~
 
 <nav>
-     <a href="/javascript/objects/accessing-nested-object-properties-2">Back</a>
+     <a href="/javascript/objects/accessing-properties-with-bracket-notation">Back</a>
+     <a href="/javascript/objects/accessing-nested-object-properties-part-2" class="next">Accessing nested object properties part 2</a>
 </nav>
