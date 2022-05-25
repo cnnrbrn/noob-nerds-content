@@ -1,7 +1,25 @@
+# Accessing nested object properties part 2
 
-
-
-
+```js
+const user = {
+	login: {
+		username: "randalph",
+		password: "strongpassword",
+		"suspended-or-blocked": false,
+	},
+	address: {
+		locality: {
+			building: {
+				"building name": "Nice building",
+				floor: 4,
+				flatNo: 21,
+			},
+			street: "1 Some Street",
+		},
+		city: "The Big City",
+	},
+};
+```
 
 To get the `"suspended-or-blocked"` property we first need to get the `login` property (an object) and then get the "suspended-or-blocked" for which we'll need to use bracket notation as it contains hyphens:
 
@@ -17,21 +35,25 @@ const floor = user.address.locality.building.floor;
 
 ######
 Write a single line of code that will:
-- retrieve the `password` property from the object above
-- assign it to a variable called `userPassword`
+-   retrieve the `password` property from the object above
+-   assign it to a variable called `userPassword`
 
 ~~javascript objects accessingNestedObjectProperty1~~
 
 ######
 Write a single line of code that will
-- retrieve the `street` property from the object above
-- assign it to a variable called `userStreet`
+-   retrieve the `street` property from the object above
+-   assign it to a variable called `userStreet`
 
 ~~javascript objects accessingNestedObjectProperty2~~
 
 ######
 Write a single line of code that will
-- retrieve the `"building name"` property from the object above
-- assign it to a variable called `userBuildingName`
+-   retrieve the `"building name"` property from the object above
+-   assign it to a variable called `userBuildingName`
 
 ~~javascript objects accessingNestedObjectProperty4~~
+
+<nav>
+     <a href="/javascript/objects/accessing-nested-object-properties">Back</a>
+</nav>

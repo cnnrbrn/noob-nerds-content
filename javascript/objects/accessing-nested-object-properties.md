@@ -5,7 +5,7 @@ Objects are often nested within other objects.
 ```js
 const user = {
     name: {
-        firstName: "Burt",
+        firstName: "Randalph",
         lastName: "Bacharach",
     }
 };
