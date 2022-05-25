@@ -38,14 +38,14 @@ Write a single line of code that will:
 -   retrieve the `password` property from the object above
 -   assign it to a variable called `userPassword`
 
-~~javascript objects accessingNestedObjectProperty1~~
+~~javascript objects accessingNestedObjectProperty2~~
 
 ######
 Write a single line of code that will
 -   retrieve the `street` property from the object above
 -   assign it to a variable called `userStreet`
 
-~~javascript objects accessingNestedObjectProperty2~~
+~~javascript objects accessingNestedObjectProperty3~~
 
 ######
 Write a single line of code that will
