@@ -1,5 +1,7 @@
 # Accessing nested object properties part 2
 
+The object below has some properties whose keys are contained in strings and some properties that are nested several leverals deep.
+
 ```js
 const user = {
 	login: {
