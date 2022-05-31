@@ -58,5 +58,5 @@ Write a single line of code that will
 
 <nav>
      <a href="/javascript/objects/accessing-nested-object-properties">Back</a>
-	 <a href="/javascript/objects/object-destructuring">Object Destructuring</a>
+	 <a href="/javascript/objects/object-destructuring" class="next">Object Destructuring</a>
 </nav>
