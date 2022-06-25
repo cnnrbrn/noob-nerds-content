@@ -27,5 +27,5 @@ Rewrite the line of code above to retrieve the `price` property from the product
 
 <nav>
      <a href="/javascript/objects/accessing-nested-object-properties-part-2">Back</a>
-	 <a href="/javascript/objects/uncaught-reference-error" class="next">Uncaught TypeError</a>
+	 <a href="/javascript/objects/uncaught-reference-error" class="next">Uncaught ReferenceError</a>
 </nav>
