@@ -57,7 +57,7 @@ Write a single line of code that will
 
 Write a single line of code that will
 
-- retrieve the `"building name"` property from the object above
+- retrieve the `building name` property from the object above
 - assign it to a variable called `userBuildingName`
 
 ~~javascript objects accessingNestedObjectProperty4~~
