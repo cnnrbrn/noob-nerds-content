@@ -1,4 +1,4 @@
-# Objects: Uncaught ReferenceError
+# Uncaught ReferenceError
 
 Trying to access properties on an object that don't exist is a common bug.
 

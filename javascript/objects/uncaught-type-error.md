@@ -1,8 +1,6 @@
-# Objects: Uncaught TypeError
+# Uncaught TypeError
 
-Trying to access properties or objects that don't exist is a common problem.
-
-In Chrome and Edge the error message looks like this:
+Trying to access a nested property of a property that doesn't exist will return this error in Chrome and Edge:
 
 ```bash
 Uncaught TypeError: Cannot read properties of undefined (reading 'property_name')
@@ -20,12 +18,40 @@ Given this object
 
 ```js
 const user = {
-  name: "Blob"
+  login: {
+    username: "name",
+    password: "password"
+  }
 };
 ```
 
-Running this code below would produce the error above:
+Running this code
 
 ```js
-const userName = person.name;
+const username = user.credentials.username;
 ```
+
+would return this error in Chrome:
+
+```
+Uncaught TypeError: Cannot read properties of undefined (reading 'username')
+```
+
+and this error in Firefox:
+
+```
+Uncaught TypeError: user.credentials is undefined
+```
+
+This is because there is no property called `credentials` on the `user` object, `user.credentials` is undefined so we are trying to access a property on an undefined value.
+
+######
+
+Rewrite the line of code above so that the username property is retrieved from the correct property.
+
+~~javascript objects uncaughtTypeError~~
+
+<nav>
+    <a href="/javascript/objects/undefined">Back</a>
+	  <a href="/javascript/objects/uncaught-type-error" class="next">Uncaught TypeError</a>
+</nav>
