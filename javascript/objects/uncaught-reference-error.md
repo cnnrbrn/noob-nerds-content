@@ -16,10 +16,16 @@ const user = {
 };
 ```
 
-Running the code below would produce the error above:
+this code
 
 ```js
 const userName = person.name;
+```
+
+would produce this error:
+
+```
+Uncaught ReferenceError: person is not defined
 ```
 
 That's because the code is trying to retrieve the `name` property from an object called `person` which does not exist as the object is called `user`.
