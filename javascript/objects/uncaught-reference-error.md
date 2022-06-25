@@ -33,6 +33,6 @@ Rewrite the line of code above so that the name property is retrieved from the c
 ~~javascript objects uncaughtReferenceError~~
 
 <nav>
-     <a href="/javascript/objects/accessing-nested-object-properties-part-2">Back</a>
+     <a href="/javascript/objects/undefined">Back</a>
 	 <a href="/javascript/objects/uncaught-type-error" class="next">Uncaught TypeError</a>
 </nav>
