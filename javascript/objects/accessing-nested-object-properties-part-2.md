@@ -7,19 +7,19 @@ const user = {
   login: {
     username: "randalph",
     password: "strongpassword",
-    "suspended-or-blocked": false,
+    "suspended-or-blocked": false
   },
   address: {
     locality: {
       building: {
         "building name": "Nice building",
         floor: 4,
-        flatNo: 21,
+        flatNo: 21
       },
-      street: "1 Some Street",
+      street: "1 Some Street"
     },
-    city: "The Big City",
-  },
+    city: "The Big City"
+  }
 };
 ```
 
@@ -64,5 +64,5 @@ Write a single line of code that will
 
 <nav>
      <a href="/javascript/objects/accessing-nested-object-properties">Back</a>
-	 <a href="/javascript/objects/accessing-properties-uncaught-type-error" class="next">Uncaught TypeError</a>
+	 <a href="/javascript/objects/uncaught-type-error" class="next">Uncaught TypeError</a>
 </nav>
