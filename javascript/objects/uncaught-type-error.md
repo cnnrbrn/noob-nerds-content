@@ -33,13 +33,13 @@ const username = user.credentials.username;
 
 would return this error in Chrome:
 
-```
+```bash
 Uncaught TypeError: Cannot read properties of undefined (reading 'username')
 ```
 
 and this error in Firefox:
 
-```
+```bash
 Uncaught TypeError: user.credentials is undefined
 ```
 
