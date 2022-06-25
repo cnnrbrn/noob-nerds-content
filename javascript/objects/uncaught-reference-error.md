@@ -24,7 +24,7 @@ const userName = person.name;
 
 would produce this error:
 
-```
+```bash
 Uncaught ReferenceError: person is not defined
 ```
 
