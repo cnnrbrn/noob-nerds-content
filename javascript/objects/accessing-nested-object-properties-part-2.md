@@ -64,5 +64,5 @@ Write a single line of code that will
 
 <nav>
      <a href="/javascript/objects/accessing-nested-object-properties">Back</a>
-	 <a href="/javascript/objects/uncaught-type-error" class="next">Uncaught TypeError</a>
+	 <a href="/javascript/objects/uncaught-reference-error" class="next">Uncaught ReferenceError</a>
 </nav>
