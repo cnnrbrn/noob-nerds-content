@@ -2,7 +2,7 @@
 
 Objects are used to store related variables.
 
-There are a few ways to create objects, the simplest being to use curly braces: `{}`.
+There are a few ways to create objects, the most common way being using curly braces: `{}`.
 
 An empty object assigned to a variable looks like this:
 
@@ -14,8 +14,11 @@ let myObject = {};
 var myObject = {};
 ```
 
+An object declared this way is called an `object literal`.
+
 ######
-Create an empty object using curly braces and assign it to a variable called `emptyObject`.
+
+Create an empty object using the object literal syntax and assign it to a variable called `emptyObject`.
 
 ~~javascript objects emptyObject~~
 
