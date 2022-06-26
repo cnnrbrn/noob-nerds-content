@@ -1,6 +1,6 @@
 # Optional chaining: ?
 
-You can use the optional chaining operator `?.` to safely access nested properties that potentially don't exist on an object.
+You can use the optional chaining operator `?.` to safely access nested properties that might not exist on an object.
 
 Given this object
 
@@ -8,8 +8,7 @@ Given this object
 const product = {
   name: "A product",
   image: {
-    url: "image url",
-    altText: "alt text"
+    url: "image url"
   }
 };
 ```
@@ -36,6 +35,7 @@ So `imageUrl` will be assigned the value `undefined` in the code below if there 
 
 ```js
 const imageUrl = product.image?.url;
+// undefined
 ```
 
 If `image` does exist on `product` then `imageUrl` will be assigned the value of `image.url`.
@@ -52,7 +52,7 @@ Sometimes the user object below may not have a `login` property. Write a single 
 ```js
 const user = {
   login: {
-    username: "username"
+    username: "myusername"
   }
 };
 ```
