@@ -60,6 +60,6 @@ const user = {
 ~~javascript objects optionalChaining~~
 
 <nav>
-     <a href="/javascript/objects/uncaught-type-error">Back</a>
-	 <a href="/javascript/objects/nullish-coalescing-operator" class="next">Nullish coalescing operator</a>
+  <a href="/javascript/objects/uncaught-type-error">Back</a>
+	<a href="/javascript/objects/nullish-coalescing-operator" class="next">Nullish coalescing operator</a>
 </nav>
