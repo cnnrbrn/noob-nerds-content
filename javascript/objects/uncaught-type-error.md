@@ -53,5 +53,5 @@ Rewrite the line of code above so that the username property is retrieved from t
 
 <nav>
     <a href="/javascript/objects/undefined">Back</a>
-	  <a href="/javascript/objects/uncaught-type-error" class="next">Uncaught TypeError</a>
+	  <a href="/javascript/objects/optional-chaining" class="next">Optional chaining</a>
 </nav>
