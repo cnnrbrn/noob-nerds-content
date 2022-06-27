@@ -3,8 +3,13 @@
 <div class="menu"></div>
 
 1. [Introduction](/javascript/objects/introduction)
-2. [An object with properties](/javascript/objects/object-with-properties) 3.[Object property value types](/javascript/objects/object-property-value-types)
+
+2. [An object with properties](/javascript/objects/object-with-properties)
+
+3.[Object property value types](/javascript/objects/object-property-value-types)
+
 3. [Accessing properties with dot notation](/javascript/objects/accessing-properties-with-dot-notation)
+
 4. [Accessing properties with bracket notation](/javascript/objects/accessing-properties-with-bracket-notation)
 5. [Accessing nested object properties](/javascript/objects/accessing-nested-object-properties)
 6. [Accessing nested object properties part 2](/javascript/objects/accessing-nested-object-properties-part-2)
