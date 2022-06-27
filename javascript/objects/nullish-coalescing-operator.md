@@ -54,3 +54,8 @@ const property = {
 ```
 
 ~~javascript objects nullishCoalescing~~
+
+<nav>
+  <a href="/javascript/objects/optional-chaining">Back</a>
+	<a href="/javascript/objects/object-destructuring" class="next">Object destructuring</a>
+</nav>
