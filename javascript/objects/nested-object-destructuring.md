@@ -68,6 +68,6 @@ const product = {
 ~~javascript objects nestedObjectDestructuring2~~
 
 <nav>
-  <a href="/javascript/objects/object-destructuring">Back</a>
-	<a href="/javascript/objects/looping-through-an-array-of-objects" class="next">Looping through an array of objects</a>
+  <a href="/javascript/objects/object-destructuring-aliasing">Back</a>
+	<a href="/javascript/objects/looping-through-an-array-of-objects-for-loop" class="next">Looping through an array of objects</a>
 </nav>
