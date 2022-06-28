@@ -24,7 +24,7 @@ Write a single line of code that will
 
 ```js
 const blog = {
-  title: "Title",
+  title: "Blog",
   summary: "Lorem ipsem dolor"
 };
 ```

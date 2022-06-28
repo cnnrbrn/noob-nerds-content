@@ -1,4 +1,4 @@
-# JavaScript Ojects
+# JavaScript Objects
 
 <div class="menu"></div>
 
@@ -12,8 +12,10 @@
 8. [Undefined](/javascript/objects/undefined)
 9. [Uncaught ReferenceError](/javascript/objects/uncaught-reference-error)
 10. [Uncaught TypeError](/javascript/objects/uncaught-type-error)
-11. [Optional chaining](/javascript/objects/optional-chaining)
-12. [Nullish coalescing operator](/javascript/objects/nullish-coalescing-operator)
+11. [Optional chaining: ?](/javascript/objects/optional-chaining)
+12. [Nullish coalescing operator: ??](/javascript/objects/nullish-coalescing-operator)
 13. [Object destructuring](/javascript/objects/object-destructuring)
 14. [Object destructuring aliasing](/javascript/objects/object-destructuring-aliasing)
 15. [Nested object destructuring](/javascript/objects/nested-object-destructuring)
+16. [Looping through arrays of objects: for loop](/javascript/objects/looping-through-arrays-of-objects-for-loop)
+17. [Looping through arrays of objects: forEach loop](/javascript/objects/looping-through-arrays-of-objects-forEach)
