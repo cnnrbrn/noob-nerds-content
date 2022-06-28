@@ -21,3 +21,4 @@
 17. [Skipping items with continue](/skipping-items-with-continue)
 18. [Exiting a loop with break](/javascript/objects/exiting-a-loop-with-break)
 19. [Looping through arrays of objects: forEach loop](/javascript/objects/looping-through-arrays-of-objects-forEach)
+20. [Error: forEach is not function](/javascript/objects/forEach-is-not-a-function)
