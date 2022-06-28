@@ -11,8 +11,8 @@ We can store the variables together in an object. We'll call the object `person`
 
 ```js
 const person = {
-    firstName: "Gertrude",
-    lastName: "Smith"
+  firstName: "Gertrude",
+  lastName: "Smith"
 };
 ```
 
@@ -22,11 +22,12 @@ The left side of the property (the left side of the colon `:`) is called the `ke
 
 A property is a key-value pair.
 
-The first property in the person object has a __key__ of `firstName` and a __value__ of `"Gertrude"`, a string value.
+The first property in the person object has a **key** of `firstName` and a **value** of `"Gertrude"`, a string value.
 
-The second property in the person object has a __key__ of `lastName` and a __value__ of `"Smith"`, also a string value.
+The second property in the person object has a **key** of `lastName` and a **value** of `"Smith"`, also a string value.
 
 ######
+
 Create an object called `movie` with two properties, `title` and `description`. Give both properties string values.
 
 ~~javascript objects movieObjectTwoStringProperties~~

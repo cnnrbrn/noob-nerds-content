@@ -1,6 +1,6 @@
 # Uncaught ReferenceError
 
-Trying to access properties on an object that don't exist is a common error.
+Trying to access a property on an object that doesn't exist is a common error.
 
 This is what the error message looks like, where `name_of_object` is the object you are trying to retrieve the property from:
 
@@ -12,7 +12,7 @@ Given this object
 
 ```js
 const user = {
-  name: "Blob"
+  name: "myname"
 };
 ```
 
