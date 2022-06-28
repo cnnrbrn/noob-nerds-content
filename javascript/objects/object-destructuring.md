@@ -12,7 +12,7 @@ const movie = {
 };
 ```
 
-We can extract the title property and assign it to a variable called `title` with this line of code:
+We can extract the `title` property and assign it to a variable called `title` like this:
 
 ```js
 const { title } = movie;
@@ -52,3 +52,8 @@ const blog = {
 ```
 
 ~~javascript objects objectDestructuring1~~
+
+<nav>
+  <a href="/javascript/objects/object-destructuring">Back</a>
+	<a href="/javascript/objects/object-destructuring-aliases" class="next">Object destructuring aliases</a>
+</nav>

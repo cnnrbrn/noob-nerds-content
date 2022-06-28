@@ -10,13 +10,13 @@ const url = null ?? "default url";
 
 We can use this operand to provide default values for missing object properties.
 
-If `product.imageUrl` is null or undefined, a placeholder image url will be assigned to `url`:
+In the code below, if `product.imageUrl` is null or undefined, a default value of `"https://via.placeholder.com/200"` will be assigned to the `url` variable:
 
 ```js
 const url = product.imageUrl ?? "https://via.placeholder.com/200";
 ```
 
-If `product.image` or `product.image.url` is null or undefined, a placeholder image url will be assigned to `url`:
+Below, if `product.image` or `product.image.url` is null or undefined, a default value of `"https://via.placeholder.com/200"` will be assigned to the `url` variable:
 
 ```js
 const url = product.image?.url ?? "https://via.placeholder.com/200";
