@@ -33,5 +33,5 @@ const blog = {
 
 <nav>
   <a href="/javascript/objects/object-destructuring">Back</a>
-	<a href="/javascript/objects/nested-object-destructuring" class="next">Object destructuring aliases</a>
+	<a href="/javascript/objects/nested-object-destructuring" class="next">Nested object destructuring</a>
 </nav>
