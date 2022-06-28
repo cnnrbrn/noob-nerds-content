@@ -55,5 +55,5 @@ const books = [{ title: "Book 1" }, { title: "Book 2" }];
 
 <nav>
   <a href="/javascript/objects/nested-object-destructuring">Back</a>
-	<a href="/javascript/objects/forEach-is-o" class="next">Skipping items with continue</a>
+	<a href="/javascript/objects/forEach-is-not-a-function" class="next">forEach is not a function</a>
 </nav>
