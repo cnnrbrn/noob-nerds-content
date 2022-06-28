@@ -15,5 +15,5 @@
 11. [Optional chaining](/javascript/objects/optional-chaining)
 12. [Nullish coalescing operator](/javascript/objects/nullish-coalescing-operator)
 13. [Object destructuring](/javascript/objects/object-destructuring)
-14. [Object destructuring aliasing](/javascript/objects/object-destructuring-aliases)
+14. [Object destructuring aliasing](/javascript/objects/object-destructuring-aliasing)
 15. [Nested object destructuring](/javascript/objects/nested-object-destructuring)
