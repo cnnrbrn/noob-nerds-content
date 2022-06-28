@@ -51,9 +51,9 @@ const blog = {
 };
 ```
 
-~~javascript objects objectDestructuring1~~
+~~javascript objects objectDestructuring~~
 
 <nav>
-  <a href="/javascript/objects/object-destructuring">Back</a>
-	<a href="/javascript/objects/object-destructuring-aliases" class="next">Object destructuring aliases</a>
+  <a href="/javascript/objects/nullish-coalescing-operator">Back</a>
+	<a href="/javascript/objects/object-destructuring-aliasing" class="next">Object destructuring aliasing</a>
 </nav>
