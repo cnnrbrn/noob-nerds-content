@@ -5,12 +5,10 @@ Given this array of objects
 ```js
 const products = [
   {
-    name: "Product 1",
-    price: 9.99
+    name: "Product 1"
   },
   {
-    name: "Product 2",
-    prince: 25.0
+    name: "Product 2"
   }
 ];
 ```
