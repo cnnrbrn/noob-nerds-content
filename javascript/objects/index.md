@@ -9,7 +9,7 @@
 5. [Accessing properties with bracket notation](/javascript/objects/accessing-properties-with-bracket-notation)
 6. [Accessing nested object properties](/javascript/objects/accessing-nested-object-properties)
 7. [Accessing nested object properties part 2](/javascript/objects/accessing-nested-object-properties-part-2)
-8. [Undefined](/javascript/objects/undefined)
+8. [Undefined properties](/javascript/objects/undefined-properties)
 9. [Uncaught ReferenceError](/javascript/objects/uncaught-reference-error)
 10. [Uncaught TypeError](/javascript/objects/uncaught-type-error)
 11. [Optional chaining: ?](/javascript/objects/optional-chaining)

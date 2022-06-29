@@ -14,7 +14,7 @@ const product = {
 the code below will return `undefined` as there is no property called `cost`:
 
 ```js
-const productCost = product.cost;
+const productPrice = product.cost;
 ```
 
 If you receive an undefined value when trying to retrieve an object property, make sure the property exists on the object.
@@ -23,7 +23,7 @@ If you receive an undefined value when trying to retrieve an object property, ma
 
 Rewrite the line of code above to retrieve the `price` property from the product object.
 
-~~javascript objects undefined~~
+~~javascript objects undefinedProperties~~
 
 <nav>
      <a href="/javascript/objects/accessing-nested-object-properties-part-2">Back</a>
