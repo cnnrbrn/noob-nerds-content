@@ -4,10 +4,10 @@ Objects are often nested within other objects.
 
 ```js
 const user = {
-    name: {
-        firstName: "Randalph",
-        lastName: "Bacharach",
-    }
+  name: {
+    firstName: "Randalph",
+    lastName: "Bacharach"
+  }
 };
 ```
 
@@ -18,9 +18,12 @@ const lastName = user.name.lastName;
 ```
 
 ######
+
 Write a single line of code that will:
+
 - retrieve the `firstName` property from the object above
 - assign it to a variable called `userFirstName`
+- use dot notation
 
 ~~javascript objects accessingNestedObjectProperty1~~
 
