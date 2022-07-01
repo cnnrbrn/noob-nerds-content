@@ -61,7 +61,6 @@ Write a single line of code that will
 
 - retrieve the `building name` property from the object above
 - assign it to a variable called `userBuildingName`
-- use dot notation
 
 ~~javascript objects accessingNestedObjectProperty4~~
 
