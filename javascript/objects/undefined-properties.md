@@ -21,7 +21,7 @@ If you receive an undefined value when trying to retrieve an object property, ma
 
 ######
 
-Rewrite the line of code above to retrieve the `price` property from the product object using dot notation.
+Rewrite the line of code above to retrieve the `price` property from the product.
 
 ~~javascript objects undefinedProperties~~
 
