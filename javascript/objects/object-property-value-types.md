@@ -7,7 +7,7 @@ Some of the property types an object can have are:
 - `boolean`, `true` or `false`
 - `array`, e.g. `["red", "yellow", "blue"]`
 - another `object`, e.g. `{colour: "red"}`
-- a `function`, e.g. function() {}
+- a `function`, e.g. `function() {}`
 
 Here is an object with one of each of the above types:
 
