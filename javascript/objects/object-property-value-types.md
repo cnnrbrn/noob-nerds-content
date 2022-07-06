@@ -34,7 +34,7 @@ Create an object called `user` with three properties:
 - `name` with a `string` value
 - `isActive` with a `boolean` value
 
-~~javascript objects objectWithThreeProperties 150~~
+~~javascript objects objectWithThreeProperties 160~~
 
 <nav>
      <a href="/javascript/objects/object-with-properties">Back</a>
