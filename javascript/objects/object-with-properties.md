@@ -28,8 +28,7 @@ The second property in the person object has a **key** of `lastName` and a **val
 
 ######
 
-Create an object called `movie` with two properties, `title` and `description`.
-
+Create an object called `movie` with two properties, `title` and `description`.<br />
 Give both properties string values.
 
 ~~javascript objects objectWithTwoStringProperties~~
