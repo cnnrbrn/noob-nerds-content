@@ -47,7 +47,7 @@ This is because there is no property called `credentials` on the `user` object, 
 
 ######
 
-Rewrite the line of code above so that the username property is retrieved from the correct property. Use dot notation.
+Rewrite the line of code above so that the username property is retrieved from the correct property.
 
 ~~javascript objects uncaughtTypeError~~
 

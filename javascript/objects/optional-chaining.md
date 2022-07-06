@@ -29,7 +29,7 @@ const product = {
 
 then trying to access `product.image.url` would throw a [type error](/javascript/objects/optional-chaining).
 
-Using the optional chaining operator will return the value `undefined` rather than an error if the property does not exist.
+Using the optional chaining operator will return `undefined` rather than an error if the property does not exist.
 
 So `imageUrl` will be assigned the value `undefined` in the code below if there is no `image` property on the `product` object.
 
@@ -46,7 +46,7 @@ The optional chaining operator is often used when looping through an array of ob
 
 Sometimes the user object below may not have a `login` property. Write a single line of code to
 
-- access the `username` property using the optional chaining operator
+- access the `username` property using dot notation and the optional chaining operator
 - assign the value to a variable called `loginUsername`
 
 ```js

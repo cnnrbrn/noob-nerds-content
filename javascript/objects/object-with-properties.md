@@ -30,7 +30,7 @@ The second property in the person object has a **key** of `lastName` and a **val
 
 Create an object called `movie` with two properties, `title` and `description`. Give both properties string values.
 
-~~javascript objects movieObjectTwoStringProperties~~
+~~javascript objects objectWithTwoStringProperties~~
 
 <nav>
     <a href="/javascript/objects/introduction">Back</a>
