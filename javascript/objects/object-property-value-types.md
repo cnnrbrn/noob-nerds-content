@@ -1,24 +1,24 @@
 # Object property value types
 
-Properties in objects can have any of the following values:
+Some of the property types an object can have are:
 
-- `string`, e.g. "Hello"
-- `number`, e.g. 1234
-- `boolean`, true or false
-- `array`, e.g. ["red", "yellow", "blue"]
-- another `object`, e.g. {colour: "red"}
+- `string`, e.g. `"Hello"`
+- `number`, e.g. `123`
+- `boolean`, `true` or `false`
+- `array`, e.g. `["red", "yellow", "blue"]`
+- another `object`, e.g. `{colour: "red"}`
 - a `function`, e.g. function() {}
 
-Here is an object with one of each value type:
+Here is an object with one of each of the above types:
 
 ```
 const animal = {
      type: "elephant",
      age: 32,
      isAfrican: true,
-     nicknames: ["Ellie", "Bimbo"],
+     nicknames: ["Blob", "Slob"],
      medicalHistory; {
-
+          isCurrentlyDead: false
      },
      trumpet: function() {
           return "Praaaarrp!";
@@ -30,9 +30,9 @@ const animal = {
 
 Create an object called `user` with three properties:
 
-- id with a number value
-- name with a string value
-- isActive with a boolean value
+- `id` with a `number` value
+- `name` with a `string` value
+- `isActive` with a `boolean` value
 
 ~~javascript objects objectWithThreeProperties~~
 
