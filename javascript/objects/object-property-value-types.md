@@ -27,13 +27,14 @@ const animal = {
 ```
 
 ######
+
 Create an object called `user` with three properties:
+
 - id with a number value
 - name with a string value
-- isActive with a boolean value 
+- isActive with a boolean value
 
-~~javascript objects userObjectThreeProperties~~
-
+~~javascript objects objectWithThreeProperties~~
 
 <nav>
      <a href="/javascript/objects/object-with-properties">Back</a>
