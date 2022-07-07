@@ -45,7 +45,7 @@ Write a single line of code to
 - select the `city` property from the object below using dot notation
 - assign the value to a variable called `propertyCity`
 - provide the default value `"Unknown city"` if the city or address property is null or undefined using the nullish coalescing operator
-- use the <a href="/javascript/objects/optional-chaining">optional chaining operator</a> to prevent an error being thrown if the address property is null or undefined
+- use the <a href="/javascript/objects/optional-chaining">optional chaining operator</a> to prevent an error being thrown if the `address` property is null or undefined
 
 ```js
 const property = {
