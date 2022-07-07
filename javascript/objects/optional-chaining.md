@@ -44,7 +44,7 @@ The optional chaining operator is often used when looping through an array of ob
 
 ######
 
-Sometimes the user object below may not have a `login` property. Write a single line of code to
+Sometimes the `user` object below may not have a `login` property. Write a single line of code to
 
 - access the `username` property using dot notation and the optional chaining operator
 - assign the value to a variable called `loginUsername`
