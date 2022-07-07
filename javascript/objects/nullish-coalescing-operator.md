@@ -36,6 +36,8 @@ const product = {
 };
 ```
 
+~~javascript objects nullishCoalescing1~~
+
 ######
 
 Write a single line of code to
@@ -53,7 +55,7 @@ const property = {
 };
 ```
 
-~~javascript objects nullishCoalescing~~
+~~javascript objects nullishCoalescing2~~
 
 <nav>
   <a href="/javascript/objects/optional-chaining">Back</a>
