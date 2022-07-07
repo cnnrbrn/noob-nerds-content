@@ -26,7 +26,7 @@ const url = product.image?.url ?? "https://via.placeholder.com/200";
 
 Write a single line of code to
 
-- select the price property from the object below
+- select the price property from the object below using dot notation
 - assign the value to a variable called `productPrice`
 - provide the default value "Price unkown" for the price property if it is null or undefined using the nullish coalescing operator
 
@@ -35,6 +35,8 @@ const product = {
   price: null
 };
 ```
+
+const productPrice = product.price ?? "Price unknown";
 
 ~~javascript objects nullishCoalescing1~~
 
