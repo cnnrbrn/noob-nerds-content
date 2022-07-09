@@ -16,9 +16,9 @@ const products = [
 we can use a `for loop` to access each object in the array.
 
 ```js
-for(let i = 0; i < products.length; i++>) {
-    const product = products[i];
-    console.log(product);
+for (let i = 0; i < products.length; i++) {
+  const product = products[i];
+  console.log(product);
 }
 ```
 
@@ -33,7 +33,7 @@ The last item in an array has an index value that is one less than the length of
 
 ######
 
-Loop through the array of objects below with a for loop and console log the title property of each object.
+Loop through the array of objects below with a for loop and inside the loop assign each `title` property to a variable called `bookTitle`.
 
 ```js
 const books = [{ title: "Book 1" }, { title: "Book 2" }];
