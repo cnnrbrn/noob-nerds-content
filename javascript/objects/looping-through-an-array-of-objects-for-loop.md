@@ -39,7 +39,7 @@ Loop through the array of objects below with a for loop and inside the loop assi
 const books = [{ title: "Book 1" }, { title: "Book 2" }];
 ```
 
-~~javascript objects forLoop~~
+~~javascript objects forLoop 300~~
 
 <nav>
   <a href="/javascript/objects/nested-object-destructuring">Back</a>
