@@ -51,6 +51,6 @@ const books = [
 ~~javascript objects continue~~
 
 <nav>
-  <a href="/javascript/objects/looping-through-an-array-of-object-for-loop">Back</a>
+  <a href="/javascript/objects/looping-through-an-array-of-objects-for-loop">Back</a>
 	<a href="/javascript/objects/exiting-a-loop-with-break" class="next">Exiting a loop with break</a>
 </nav>
