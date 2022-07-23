@@ -17,8 +17,8 @@ we can use a `for loop` to access each object in the array.
 
 ```js
 for (let i = 0; i < products.length; i++) {
-  const product = products[i];
-  console.log(product);
+  const productName = products[i].name;
+  console.log(productName);
 }
 ```
 
@@ -30,6 +30,8 @@ The first item in an array has an index of 0, that's why `i` is initialised with
 - `products[1]` is the second object in the array
 
 The last item in an array has an index value that is one less than the length of the array, hence the second part of the for loop: `i < products.length`. We only want the loop to continue while `i` is less than the length of the array.
+
+Once we have the object via its index in the array we can access its properties like usual.
 
 ######
 

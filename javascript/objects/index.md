@@ -17,7 +17,7 @@
 13. [Object destructuring](/javascript/objects/object-destructuring)
 14. [Object destructuring aliasing](/javascript/objects/object-destructuring-aliasing)
 15. [Nested object destructuring](/javascript/objects/nested-object-destructuring)
-16. [Looping through an array of objects: for loop](/javascript/objects/looping-through-arrays-of-objects-for-loop)
+16. [Looping through an array of objects: for loop](/javascript/objects/looping-through-an-array-of-objects-for-loop)
 17. [Skipping items with continue](/javascript/objects/skipping-items-with-continue)
 18. [Exiting a loop with break](/javascript/objects/exiting-a-loop-with-break)
 19. [Looping through an array of objects: forEach loop](/javascript/objects/looping-through-arrays-of-objects-forEach)
