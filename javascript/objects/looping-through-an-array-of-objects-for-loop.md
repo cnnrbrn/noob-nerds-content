@@ -37,11 +37,13 @@ Once we have the object via its index in the array we can access its properties 
 
 Loop through the array of objects below with a for loop and inside the loop assign each `title` property to a variable called `bookTitle`.
 
+Declare the counting variable inside the for loop parenthesis, not before.
+
 ```js
 const books = [{ title: "Book 1" }, { title: "Book 2" }];
 ```
 
-~~javascript loops forLoop1 280~~
+~~javascript forLoops forLoop1 280~~
 
 <nav>
   <a href="/javascript/objects/nested-object-destructuring">Back</a>
