@@ -14,9 +14,7 @@ Create an object called with 1 property of each of the following types. Assign t
 - function
 - null
 
-Assign the object to a variable called `myObject`. The order of the properties does not matter.
-
-~~javascript objects objectWithVariousTypes 250~~
+~~javascript objects objectWithVariousTypes 350~~
 
 <nav>
     <a href="/javascript/objects/introduction/forEach-is-not-a-function">Back</a>
