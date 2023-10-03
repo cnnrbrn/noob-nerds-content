@@ -22,3 +22,4 @@
 18. [Exiting a loop with break](/javascript/objects/introduction/exiting-a-loop-with-break)
 19. [Looping through an array of objects: forEach loop](/javascript/objects/introduction/looping-through-an-array-of-objects-forEach)
 20. [Error: forEach is not function](/javascript/objects/introduction/forEach-is-not-a-function)
+21. [Practice Questions](/javascript/objects/introduction/practice)
